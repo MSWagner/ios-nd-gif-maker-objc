@@ -12,7 +12,7 @@
 #import <MobileCoreServices/MobileCoreServices.h>
 #import <AVFoundation/AVFoundation.h>
 
-#import "GifMaker_Objc-Swift.h"
+#import "GifMaker_ObjC-Swift.h"
 
 @implementation UIViewController (Record) 
 

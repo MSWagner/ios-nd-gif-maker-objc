@@ -10,9 +10,9 @@
 #import "UIViewController+Theme.h"
 
 #import "GifPreviewViewController.h"
-#import "UIImage+animatedGif.h"
+#import "UIImage+animatedGIF.h"
 
-#import "GifMaker_Objc-Swift.h"
+#import "GifMaker_ObjC-Swift.h"
 
 @interface GifEditorViewController ()
 
